@@ -66,7 +66,7 @@
   transform: skew(10deg, 20deg);
   background: linear-gradient(90deg, #fff, #fff 40%, #ddd);
   display: flex; /* Utiliza flexbox para centrar el corazón verticalmente */
-  justify-content: center;  /*Centra horizontalmente el contenido */
+  justify-content: center; /*Centra horizontalmente el contenido */
   /*align-items: center;  Centra verticalmente el contenido */
   transform: skew(10deg, 20deg);
   position: relative;
